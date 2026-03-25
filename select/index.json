@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Heat Waves",
+  "base_artist": "Glass Animals",
+  "createdAt": "2026-03-25T14:40:51.220224Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Heat Waves",
+      "artist": "Glass Animals",
+      "has_synced": true,
+      "path": "select/01_Heat_Waves_Glass_Animals.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Heat Waves Slowed Reverb",
+      "artist": "Farizki",
+      "has_synced": true,
+      "path": "select/02_Heat_Waves_Slowed_Reverb_Farizki.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Heat Waves",
+      "artist": "Glass Animals",
+      "has_synced": true,
+      "path": "select/03_Heat_Waves_Glass_Animals.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Heat Waves - Stripped Back",
+      "artist": "Glass Animals",
+      "has_synced": true,
+      "path": "select/04_Heat_Waves_-_Stripped_Back_Glass_Animals.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Heat Waves (Stripped Back)",
+      "artist": "Glass Animals",
+      "has_synced": true,
+      "path": "select/05_Heat_Waves_(Stripped_Back)_Glass_Animals.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Heat Waves - Shakur Ahmad Remix",
+      "artist": "Glass Animals feat. Shakur Ahmad",
+      "has_synced": true,
+      "path": "select/06_Heat_Waves_-_Shakur_Ahmad_Remix_Glass_Animals_feat._Shakur_Ahmad.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Heat Waves (Shakur Ahmad Remix)",
+      "artist": "Glass Animals; Shakur Ahmad",
+      "has_synced": true,
+      "path": "select/07_Heat_Waves_(Shakur_Ahmad_Remix)_Glass_Animals;_Shakur_Ahmad.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Heat Waves",
+      "artist": "Glass Animals",
+      "has_synced": true,
+      "path": "select/08_Heat_Waves_Glass_Animals.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Heat Waves",
+      "artist": "Glass Animals",
+      "has_synced": true,
+      "path": "select/09_Heat_Waves_Glass_Animals.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Heat Waves",
+      "artist": "Glass Animals",
+      "has_synced": true,
+      "path": "select/10_Heat_Waves_Glass_Animals.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Heat Waves",
+      "artist": "Glass Animals",
+      "has_synced": true,
+      "path": "select/11_Heat_Waves_Glass_Animals.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Heat Waves - Slowed",
+      "artist": "Glass Animals",
+      "has_synced": true,
+      "path": "select/12_Heat_Waves_-_Slowed_Glass_Animals.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Heat Waves (Slowed)",
+      "artist": "Glass Animals",
+      "has_synced": true,
+      "path": "select/13_Heat_Waves_(Slowed)_Glass_Animals.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Heat Waves",
+      "artist": "Glass Animals",
+      "has_synced": true,
+      "path": "select/14_Heat_Waves_Glass_Animals.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Heat Waves",
+      "artist": "Our Last Night",
+      "has_synced": true,
+      "path": "select/15_Heat_Waves_Our_Last_Night.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Heat Waves",
+      "artist": "Glass Animals",
+      "has_synced": false,
+      "path": "select/pl_01_Heat_Waves_Glass_Animals.txt"
+    }
+  ]
+}
